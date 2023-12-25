@@ -1,4 +1,5 @@
 # Portfolio Website Welcome to my Portfolio Website repository! 🌐
+#### This web page is hosted [here!](https://bhalekar2410.github.io/PORTFOLIO/)
 
 ## About
 
@@ -29,10 +30,6 @@ This repository contains the source code for my personal portfolio website, show
 
   If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-  ## Contact
-
-  - LinkedIn: www.linkedin.com/in/manisha-b-981541206
-  - Email: bhalekar2410@gmail.com
-  - Portfolio:
+ 
 
   Thank you for visiting my portfolio repository! Feel free to explore and get in touch. 👋
